@@ -1,6 +1,6 @@
 {
   "name": "alertify.js",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "main": "lib/alertify.js",
   "ignore": [
     ".gitignore",
